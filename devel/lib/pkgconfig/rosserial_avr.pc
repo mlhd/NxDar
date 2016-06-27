@@ -1,0 +1,8 @@
+prefix=/home/frank/Lidar/devel
+
+Name: rosserial_avr
+Description: Description of rosserial_avr
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/frank/Lidar/devel/lib 
+Requires: 

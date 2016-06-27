@@ -1,0 +1,8 @@
+prefix=/home/frank/Lidar/install
+
+Name: rosserial_msgs
+Description: Description of rosserial_msgs
+Version: 0.6.4
+Cflags: -I/home/frank/Lidar/install/include
+Libs: -L/home/frank/Lidar/install/lib 
+Requires: message_runtime

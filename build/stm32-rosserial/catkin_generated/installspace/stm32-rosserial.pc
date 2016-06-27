@@ -1,0 +1,8 @@
+prefix=/home/frank/Lidar/install
+
+Name: stm32-rosserial
+Description: Description of stm32-rosserial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/frank/Lidar/install/lib 
+Requires: 
